@@ -1,0 +1,29 @@
+{
+  "repo": "dolphin-anty-browser-automation-pro-edition",
+  "product": "Dolphin Anty Browser Automation Pro Edition",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "dolphin-anty-browser-automation",
+    "dolphin-anty-browser-automation-desktop",
+    "dolphin-anty-browser-automation-release",
+    "dolphin-anty-browser-automation-windows",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "system-admin",
+    "hardware-info",
+    "driver-management",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Dolphin Anty Browser Automation Pro Edition"
+}
